@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/***********menu section************/
+
+.group-img{
+    width: 100%;
+}
+.menu li{
+   display: inline;
+   padding: 10px 20px;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
+.sing-in{
+    padding: 10px 20px;
+    background-color: #21b573;
+    color: white;
+    border-radius: 20px;
+}
+
+/************frame section*************/
+
+.text-orange{
+    color: orangered;
+    display: inline-block;
+    margin-top: 60px;
+}
+
+.text-style{
+    display: inline-block;
+    margin-top: -50px;
+    color: #21b573;
+    background-color: none;
+}
+.frame-section h1{
+    margin: 30px 0px 20px 0px;
+}
+.btn-get-started{
+    border: none;
+    background-color: #21b573;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+    color: white;
+}
+.frame-image img{
+    margin-left: 60px;
+width: 90%;
+}
+
+
+/************others section*************/
+
+.margin-top{
+margin-top: 100px;
+}
+
+.image-1{
+    border-radius: 10px;
+background-color: #c7ecee;
+margin: 0px 30px 20px 0px;
+}
+
+.image-1{
+    box-shadow: -5px -5px  20px gray, 5px 5px 20px gray;
+}
+
+.image-1 img{
+    width: 30%;
+    margin: 10px 0;
+}
+
+
+/************blogs section*************/
+
+
+.online-course{
+    color: #21b573;
+    text-align: center;
+    margin: 20px 0px 40px 0px;
+}
+.gaus-card{
+    background-color: #c7ecee;
+    border-radius: 10px;
+    margin-left: 10px;
+    box-shadow: -5px -5px  20px gray, 5px 5px 20px gray;
+}
+.gaus-card img{
+    width: 100%;
+    border-radius: 10px; 
+}
+.gaus-card h5{
+    margin: 10px 0px 20px 25px;
+    font-size: 25px;
+}
+.gaus-card p{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.gaus-card .btn-buy-course{
+    border: none;
+    background-color: #21b573;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+.gaus-card span{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+/************testimonial section*************/
+
+
+.testimonial{
+    text-align: center;
+    font-size: 55px;
+}
+.mamun img{
+    width: 60%;
+    margin-left: 60px;
+}
+.lorem{
+    text-align: justify;
+}
